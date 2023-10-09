@@ -337,7 +337,7 @@ section {
 
 
 .hero__avatar img {
-    width: 100%;
+    width: 90%;
 }
 
 @media screen and (max-width:749px){
@@ -366,7 +366,7 @@ section {
     }
 
     .hero__avatar img{
-        max-width:400px;
+        max-width:350px;
         border-radius:50%;
     }
 }
@@ -618,6 +618,7 @@ section {
 .card:hover .card__overlay {
     top:0;   
 }
+
 
 
 .form{
